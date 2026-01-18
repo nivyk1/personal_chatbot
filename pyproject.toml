@@ -1,0 +1,14 @@
+[project]
+name = "personal-chatbot"
+version = "0.1.0"
+description = "Personal chatbot with Gradio and OpenAI."
+requires-python = ">=3.10"
+dependencies = [
+  "python-dotenv",
+  "openai",
+  "pypdf",
+  "gradio==5.48.0",
+  "pydantic",
+]
+
+
