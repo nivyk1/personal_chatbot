@@ -43,7 +43,10 @@ Ensure the following files exist in the `me/` folder next to
 
 Set environment variables (for example in a `.env` file):
 
-- `OPENAI_API_KEY` for OpenAI
+```
+OPENAI_API_KEY=your_openai_api_key
+GOOGLE_API_KEY=your_google_api_key
+```
 
 ## Run
 
